@@ -1,0 +1,17 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socket.js",
+  "scripts": {
+    "socket": "nodemon socket.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "messenger": "file:..",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
